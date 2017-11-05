@@ -1,5 +1,7 @@
 # 程序名称：
     Telnet Command Comparer
+    
+![image](https://github.com/nodder/telnet-cmd-comparer/blob/master/release/V1.1/TelnetCmdCompare/image/image.jpg)
 
 # 程序功能：
     对SNMP网元的show running-config进行两次快照，再比较快照之间的区别。
